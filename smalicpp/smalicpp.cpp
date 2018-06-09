@@ -53,5 +53,7 @@ int _tmain(int argc, TCHAR* argv[], TCHAR* envp[])
 		nRetCode = 1;
 	}
 
+	// ≤‚ ‘Ã·Ωª
+
 	return nRetCode;
 }
