@@ -54,6 +54,7 @@ int _tmain(int argc, TCHAR* argv[], TCHAR* envp[])
 	}
 
 	// ≤‚ ‘Ã·Ωª
+	// git push -u origin master
 
 	return nRetCode;
 }
